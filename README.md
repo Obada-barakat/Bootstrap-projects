@@ -15,7 +15,7 @@ I created this repo to:
 
 |N | Project Name       | Description                           |
 |--|--------------------|---------------------------------------|
-| - |     |  |
+| 01 | Basic Bootstrap Template | [Live](https://github.com/Obada-barakat/Bootstrap-projects/first-project/index.html) |
 | - |        | |
 | - |   | |
 
