@@ -15,7 +15,7 @@ I created this repo to:
 
 |N | Project Name       | Description                           | Live |
 |--|--------------------|---------------------------------------| ------ | 
-| 01 | Basic Bootstrap Template | Practice and use basic classes and a way to build one page  |[Live](https://github.com/Obada-barakat/Bootstrap-projects/first-project) |
+| 01 | Basic Bootstrap Template | Practice and use basic classes and a way to build one page  |[Live](https://github.com/Obada-barakat/Bootstrap-projects) |
 | - |        | |
 | - |   | |
 
