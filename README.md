@@ -16,8 +16,8 @@ I created this repo to:
 |N | Project Name       | Description                           | Live |
 |--|--------------------|---------------------------------------| ------ | 
 | 01 | Basic Bootstrap Template | Practice and use basic classes and a way to build one page  |[Live](https://obada-barakat.github.io/Bootstrap-projects/first-project/index.html) |
+| 02 | Resturant Landing Page | A responsive landing page for a pizzeria, built entirely with HTML, CSS, and Bootstrap 5. | [Demo](https://obada-barakat.github.io/Bootstrap-projects/Resturant-Landing-page)
 | - |        | |
-| - |   | |
 
 *More coming soon...*
 
